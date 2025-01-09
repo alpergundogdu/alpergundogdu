@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- ⌚ Working on Wear OS by Google
+- 🏦 Sorting blockchain
+- ⌚ Xoogler - Worked on Wear OS by Google
 - 🤖 Creating bots in my spare time
-- 🐍 Python enthusiast
 
 <!--
 **alpergundogdu/alpergundogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
